@@ -8,7 +8,7 @@ function About(){
                          <li>Innovative solutions for modern businesses</li>
                          <li>Mission: simplify challenges with technology</li>
                          <li>Vision: a future of efficiency & sustainability</li>
-                         <li>Values: integrity, customer focus, innovation</li>
+                         <li>Values:bzscdskbvkbvkd integrity, customer focus, innovation</li>
                          <li>Global reach with scalable impact</li>
             
                     </ul>
