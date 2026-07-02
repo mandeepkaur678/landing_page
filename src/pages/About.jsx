@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <div className="bg-pink-50">
+      <div className="">
         <div className="flex justify-between">
           <div className="py-28">
             <p className="px-10 py-2 text-pink-600 font-bold">ABOUT US</p>
@@ -180,7 +180,7 @@ const About = () => {
           </div>
         </div>
 
-        <section className="bg-gradient-to-r from-purple-900 to-pink-700 text-white px-10 mx-72 py-10 mt-20 rounded-xl">
+        <section className="bg-gradient-to-r from-purple-900 to-pink-700 text-white px-10 mx-72 py-10 mt-20 rounded-xl my-10">
           <div className="flex justify-between">
           <div >
           <h4 className="font-bold py-2 text-2xl">Ready to build your next project?</h4>

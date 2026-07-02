@@ -11,7 +11,7 @@ function Header(){
             <NavLink to="/contact" className="hover:scale-105 hover:underline underline-offset-4 hover:text-pink-700">Contact</NavLink>
           </div>
           <button className="mx-10 px-8 py-1 bg-gradient-to-r from-purple-900 to-pink-700 text-white rounded-lg hover:scale-105 transition-all duration-300">
-            Get in Touch
+            Sign Up
           </button>
         </div>
       </>
