@@ -1,9 +1,9 @@
 import React from 'react'
 import Header from './pages/Header'
-import footer from './pages/Footer'
+import Footer from './pages/Footer'
 import { Outlet } from 'react-router-dom'
 
-const layout = () => {
+const Layout = () => {
   return (
     <>
     <Header/>
@@ -15,4 +15,4 @@ const layout = () => {
   )
 }
 
-export default layout
+export default Layout
